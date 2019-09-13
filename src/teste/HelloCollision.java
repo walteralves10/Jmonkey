@@ -1,4 +1,4 @@
-package jme3test.helloworld;
+package teste;
 
 import com.jme3.app.SimpleApplication;
 import com.jme3.asset.plugins.ZipLocator;

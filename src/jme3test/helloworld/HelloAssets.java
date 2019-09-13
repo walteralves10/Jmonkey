@@ -18,10 +18,10 @@ import jme3test.helloworld.HelloTerrain;
  */
 public class HelloAssets extends SimpleApplication {
 
-//    public static void main(String[] args) {
-//        HelloAssets app = new HelloAssets();
-//        app.start();
-//    }
+    public static void main(String[] args) {
+        HelloAssets app = new HelloAssets();
+        app.start();
+    }
 
     @Override
     public void simpleInitApp() {
